@@ -1,0 +1,12 @@
+input{
+    border-width: 3px;
+    border-style: groove;
+    border-color: deepskyblue;
+}
+ button{
+     border-width: 2px;
+     background-color: dodgerblue;
+     color: lightcoral;
+     font-weight: bold;
+     font-family: sans-serif;
+ }
